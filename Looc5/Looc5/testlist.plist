@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>num</key>
+		<integer>1001</integer>
+		<key>date</key>
+		<date>2015-04-21T18:08:14Z</date>
+		<key>data</key>
+		<data>Z29vYnllIGFnYWluIDQ=</data>
+		<key>direction</key>
+		<false/>
+		<key>secondLevel</key>
+		<dict>
+			<key>secondLevelArray</key>
+			<array>
+				<string>Showing dictionary, dictionary array then string</string>
+				<false/>
+				<integer>1</integer>
+				<data>Z29vYnllIGFnYWluIDQ=</data>
+				<date>2015-04-21T18:05:02Z</date>
+			</array>
+			<key>name</key>
+			<string>Showing Dicionary, Dicionary, String</string>
+			<key>secondLevelInt</key>
+			<real>34873</real>
+			<key>secondLevelDate</key>
+			<date>2015-04-21T18:09:27Z</date>
+			<key>secondLevelData</key>
+			<data>Z29vYnllIGFnYWluIDQ=</data>
+			<key>secondLevelBool</key>
+			<false/>
+		</dict>
+		<key>New item - 2</key>
+		<array>
+			<string>Showing dicaionary array then string</string>
+			<false/>
+			<integer>1</integer>
+			<data>Z29vYnllIGFnYWluIDQ=</data>
+			<date>2015-04-21T18:05:02Z</date>
+		</array>
+		<key>name</key>
+		<string>Showing Dictionary when string</string>
+	</dict>
+	<dict>
+		<key>num</key>
+		<integer>1001</integer>
+		<key>date</key>
+		<date>2015-04-21T18:08:14Z</date>
+		<key>data</key>
+		<data>Z29vYnllIGFnYWluIDQ=</data>
+		<key>direction</key>
+		<false/>
+		<key>secondLevel</key>
+		<dict>
+			<key>secondLevelArray</key>
+			<array>
+				<string>Showing dictionary, dictionary array then string</string>
+				<false/>
+				<integer>1</integer>
+				<data>Z29vYnllIGFnYWluIDQ=</data>
+				<date>2015-04-21T18:05:02Z</date>
+			</array>
+			<key>name</key>
+			<string>Showing Dicionary, Dicionary, String</string>
+			<key>secondLevelInt</key>
+			<real>34873</real>
+			<key>secondLevelDate</key>
+			<date>2015-04-21T18:09:27Z</date>
+			<key>secondLevelData</key>
+			<data>Z29vYnllIGFnYWluIDQ=</data>
+			<key>secondLevelBool</key>
+			<false/>
+		</dict>
+		<key>New item - 2</key>
+		<array>
+			<string>Showing dicaionary array then string</string>
+			<false/>
+			<integer>1</integer>
+			<data>Z29vYnllIGFnYWluIDQ=</data>
+			<date>2015-04-21T18:05:02Z</date>
+		</array>
+		<key>name</key>
+		<string>General Assembly</string>
+	</dict>
+</array>
+</plist>
